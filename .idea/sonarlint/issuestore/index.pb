@@ -23,5 +23,3 @@ N
 src/components/UI/Card/Card.js,c/2/c2c8c65e69681609459159ec2d4af192e3556299
 A
 public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
-<
-src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
